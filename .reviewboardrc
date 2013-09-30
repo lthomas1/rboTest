@@ -1,1 +1,2 @@
 REVIEWBOARD_URL = "http://gaqrevbdsql01.gs.adinternal.com"
+GUESS_FIELDS = True
